@@ -29,8 +29,7 @@ body {
 
 .loader span::before {
     content: '';
-    
     position: absolute;
     top: 0;
-    left: ;
+    left: 0;
 }
