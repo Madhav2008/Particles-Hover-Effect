@@ -48,7 +48,8 @@ body {
         30px -30px 0 #00efff,
         -30px 30px 0 #00efff,
         -30px 30px 0 #00efff;
-    animation: animate 5s linear infinite;animation-delay: ;
+    animation: animate 5s linear infinite;
+    animation-delay: ;
     transform-origin: 20px;
 }
 
