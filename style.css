@@ -54,7 +54,15 @@ body {
     transition: 2s;
 }
 
-.loader:hover span::before {
+.loader:hover span::before {box-shadow: 0 0 20px #00efff,
+    -30px -30px 0 #00efff,
+    -30px -30px 20px #00efff,
+    30px 30px 0 #00efff,
+    30px 30px 20px #00efff,
+    30px -30px 0 #00efff,
+    30px -30px 0 #00efff,
+    -30px 30px 0 #00efff,
+    -30px 30px 0 #00efff;
     transform-origin: 250px;
 }
 
