@@ -51,4 +51,6 @@ body {
     animation: animate 5s linear infinite;
 }
 
-@keyframes animate {0%}
+@keyframes animate {
+    0%
+}
