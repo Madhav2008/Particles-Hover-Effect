@@ -52,7 +52,8 @@ body {
 }
 
 @keyframes animate {
-    0% {transform: ;
+    0% {
+        transform: ;
         filter: hue-rotate(0deg);
     }
 
