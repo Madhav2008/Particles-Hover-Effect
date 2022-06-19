@@ -19,4 +19,6 @@ body {
     height: 300px;
 }
 
-.loader span {position: absolute;}
+.loader span {
+    position: absolute;
+}
