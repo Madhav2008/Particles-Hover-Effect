@@ -49,7 +49,7 @@ body {
         -30px 30px 0 #00efff,
         -30px 30px 0 #00efff;
     animation: animate 5s linear infinite;
-    animation-delay: calc(-0.25s*);
+    animation-delay: calc(-0.25s*var);
     transform-origin: 20px;
 }
 
