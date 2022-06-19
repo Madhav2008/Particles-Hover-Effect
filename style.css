@@ -50,7 +50,8 @@ body {
         -30px 30px 0 #00efff;
     animation: animate 5s linear infinite;
     animation-delay: calc(-0.25s * var(--i));
-    transform-origin: 20px;transition: 2s;
+    transform-origin: 20px;
+    transition: 2s;
 }
 
 .loader:hover span::before {
