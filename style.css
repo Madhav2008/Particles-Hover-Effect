@@ -53,6 +53,6 @@ body {
 
 @keyframes animate {
     0% {
-        filter: ;
+        filter: hue-rotate();
     }
 }
