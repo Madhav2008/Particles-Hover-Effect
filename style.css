@@ -29,5 +29,6 @@ body {
 
 .loader span::before {
     content: '';
-    position: absolute;top: 0;
+    position: absolute;
+    top: 0;
 }
