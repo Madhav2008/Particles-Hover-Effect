@@ -13,4 +13,6 @@ body {
     background: #001f25;
 }
 
-.loader {position: relative;}
+.loader {
+    position: relative;
+}
