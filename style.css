@@ -27,4 +27,6 @@ body {
     height: 100%;
 }
 
-.loader span::before {content: '';}
+.loader span::before {
+    content: '';
+}
