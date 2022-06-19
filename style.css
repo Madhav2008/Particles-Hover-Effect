@@ -51,7 +51,7 @@ body {
     animation: animate 5s linear infinite;
     animation-delay: calc(-0.25s * var(--i));
     transform-origin: 20px;
-}.loader span::before{}
+}.loader span::before {}
 
 @keyframes animate {
     0% {
