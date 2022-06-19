@@ -21,5 +21,6 @@ body {
 
 .loader span {
     position: absolute;
-    top: 0;left: ;
+    top: 0;
+    left: ;
 }
