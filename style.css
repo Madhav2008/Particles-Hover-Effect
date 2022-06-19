@@ -28,5 +28,6 @@ body {
 }
 
 .loader span::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
