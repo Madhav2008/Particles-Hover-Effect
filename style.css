@@ -54,7 +54,7 @@ body {
 }
 
 .loader:hover span::before {
-    transform-origin: 20px;
+    transform-origin: 250px;
 }
 
 @keyframes animate {
