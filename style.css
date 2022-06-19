@@ -4,4 +4,6 @@
     box-sizing: border-box;
 }
 
-body {display: flex;}
+body {
+    display: flex;
+}
