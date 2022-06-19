@@ -55,4 +55,7 @@ body {
     0% {
         filter: hue-rotate(0deg);
     }
+    0% {
+        filter: hue-rotate(0deg);
+    }
 }
