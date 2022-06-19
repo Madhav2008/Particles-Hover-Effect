@@ -56,7 +56,7 @@ body {
         filter: hue-rotate(0deg);
     }
 
-    0% {
+    100% {
         filter: hue-rotate(0deg);
     }
 }
