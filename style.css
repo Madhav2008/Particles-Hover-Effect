@@ -33,7 +33,8 @@ body {
     top: 0;
     left: 0;
     width: 25px;
-    height: 25px;border-radius: ;
+    height: 25px;
+    border-radius: ;
     background: transparent;
     border: 4px solid #00efff;
 }
