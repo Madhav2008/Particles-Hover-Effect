@@ -53,7 +53,9 @@ body {
     transform-origin: 20px;
 }
 
-.loader:hover span::before {content: '';}
+.loader:hover span::before {
+    content: '';
+}
 
 @keyframes animate {
     0% {
